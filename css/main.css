@@ -27,7 +27,8 @@ a {
 /* Main Area */
 
 .photo {
-	height: 349px;
+/*	height: 349px;*/
+	height: 395px;
 	padding-bottom: 10px;
 	padding-left: 30px
 }
