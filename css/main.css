@@ -120,10 +120,10 @@ div.div-logo, div.div-name {
 }
 
 .papers .abstract {
-	/*font-size: 13px;*/
+	font-size: 13px;
 	text-align: justify;
 	font-family: 'Raleway', sans-serif;
-	font-weight: 200;
+	font-weight: 400;
 
 }
 
