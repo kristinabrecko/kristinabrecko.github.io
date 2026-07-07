@@ -27,10 +27,10 @@ a {
 /* Main Area */
 
 .photo {
-	height: 385px;
-	/*height: 395px;*/
+	/*height: 385px;*/
+	height: 395px;
 	padding-bottom: 10px;
-	padding-left: 30px
+	padding-left: 10px
 }
 
 .photo-small {
@@ -123,7 +123,7 @@ div.div-logo, div.div-name {
 	/*font-size: 13px;*/
 	text-align: justify;
 	font-family: 'Raleway', sans-serif;
-	font-weight: 400;
+	font-weight: 300;
 
 }
 
