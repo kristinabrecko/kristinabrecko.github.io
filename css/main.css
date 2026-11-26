@@ -27,14 +27,14 @@ a {
 /* Main Area */
 
 .photo {
-/*	height: 349px;*/
-	height: 395px;
+	/*height: 385px;*/
+	height: 370px;
 	padding-bottom: 10px;
-	padding-left: 30px
+	padding-left: 10px
 }
 
 .photo-small {
-	height: 250px;
+	height: 240px;
 	float: right;
 	margin-left: 20px;
 }
